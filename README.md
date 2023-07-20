@@ -37,9 +37,5 @@ The main functionality of the Band-Name-Generator is implemented in the `index.j
 
 ## Acknowledgments
 
-This project was created for fun and educational purposes. It was inspired by the desire to come up with unique and creative band names. Special thanks to [khector24](https://github.com/khector24) for providing the initial implementation.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project was created for fun and educational purposes. It was inspired by the desire to come up with unique and creative band names.
 
