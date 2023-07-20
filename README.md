@@ -29,6 +29,7 @@ Band-Name-Generator is a simple web application that generates random band name 
 
 - Express.js
 - EJS
+- Body-Parser
 
 ## Code Overview
 
